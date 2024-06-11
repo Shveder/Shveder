@@ -7,7 +7,7 @@
   
 
 - 🔭 I’m currently working on [Business](https://github.com/Shveder/Business)  
-  
+- 🔭 Here is my CV [Business](https://github.com/Shveder/Business)  
 
 <br/>  
 
@@ -69,7 +69,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shveder&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github.com/Shveder/cs2/blob/main/githubstats.jpg" align="center" /></div>  
 
 <br/>  
 
