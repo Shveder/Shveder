@@ -69,7 +69,7 @@
 
 
 ## Github Stats  
-<div align="center"><img style = {pointer-events: none;} src="https://github.com/Shveder/cs2/blob/main/githubstats.jpg" align="center" /></div>  
+<div align="center"><img src="https://github.com/Shveder/cs2/blob/main/githubstats.jpg" align="center" /></div>  
 
 <br/>  
 
