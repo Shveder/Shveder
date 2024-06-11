@@ -55,11 +55,11 @@
 <div align="center">
 
 ### Shved Egor's GitHub Stats
-**Total Stars Earned:** 67
-**Total Commits (2024):** 129
-**Total PRs:** 12
-**Total Issues:** 0
-**Contributed to (last year):** 0
+- **Total Stars Earned:** 67
+- **Total Commits (2024):** 129
+- **Total PRs:** 12
+- **Total Issues:** 0
+- **Contributed to (last year):** 0
 
 </div>
 
