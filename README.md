@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 ### <div align="center">I'm Egor, a full-time full-stack developer 👨‍💻 studying programming since 2021 🚀</div>  
 
 - 🔭 I’m currently working on [Business](https://github.com/Shveder/Business)  
@@ -59,11 +55,11 @@
 <div align="center">
 
 ### Shved Egor's GitHub Stats
-- **Total Stars Earned:** 67
-- **Total Commits (2024):** 129
-- **Total PRs:** 12
-- **Total Issues:** 0
-- **Contributed to (last year):** 0
+**Total Stars Earned:** 67
+**Total Commits (2024):** 129
+**Total PRs:** 12
+**Total Issues:** 0
+**Contributed to (last year):** 0
 
 </div>
 
