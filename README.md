@@ -47,6 +47,8 @@
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://www.roji.org/talks/2019-10-08-dotnetos-efcore-query-internals/src/ef-unicorn.png" alt="Entity Framework" height="50" /></a>
+<a href="https://web.telegram.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" alt="Telegram" height="50" /></a>
+<img style="margin: 10px" src="https://dignitas.digital/wp-content/uploads/2022/01/SignalR.jpg" alt="SignalR" height="50" />
   
 </div>
 
