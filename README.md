@@ -48,7 +48,11 @@
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
+<div align="center">
+<a href="https://www.linkedin.com/in/egor-shved-137431222/" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="Linkedin" style="margin-bottom: 5px;" />
+</a>  
+</div>  
 <br/>  
 
 ## GitHub Stats  
