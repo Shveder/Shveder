@@ -44,11 +44,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Shveder" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<div align="center">
 <a href="https://www.linkedin.com/in/egor-shved-137431222/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" alt="Linkedin" style="margin-bottom: 5px; width = 50px" />
 </a>  
