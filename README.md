@@ -50,7 +50,7 @@
 </div>  
 <div align="center">
 <a href="https://www.linkedin.com/in/egor-shved-137431222/" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="Linkedin" style="margin-bottom: 5px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" alt="Linkedin" style="margin-bottom: 5px; width = 50px" />
 </a>  
 </div>  
 <br/>  
