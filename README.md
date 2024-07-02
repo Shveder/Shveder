@@ -46,7 +46,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/egor-shved-137431222/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" alt="Linkedin" style="width: 50px;" />
-
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" style="width: 50px;" />
 </a>  
 </div>  
 <br/>  
