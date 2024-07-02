@@ -62,17 +62,3 @@
 - **Contributed to (last year):** 0
 
 </div>
-
-<br/>  
-
-## Recent Blog Posts  
-
-<br/>  
-
-<br/>  
-
-<br/>  
-
-<br/>  
-
-<br />
