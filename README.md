@@ -1,7 +1,7 @@
 ### <div align="center">I'm Egor, a full-time full-stack developer 👨‍💻 studying programming since 2021 🚀</div>  
 
 -  I’m currently working on [Bus1](https://avtobus1.ru/)  
--  Here is my [CV](https://github.com/Shveder/Business)  
+-  Here is my [CV](https://github.com/Shveder/Resume/blob/main/Egor_Shved.pdf)  
 
 <br/>  
 
