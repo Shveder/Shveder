@@ -5,7 +5,7 @@
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table style="width: 100% !important;"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -33,7 +33,7 @@
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://www.roji.org/talks/2019-10-08-dotnetos-efcore-query-internals/src/ef-unicorn.png" alt="Entity Framework" height="50" /></a>
-<a href="https://web.telegram.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" alt="Telegram" height="50" /></a>
+<a href="https://web.telegram.org/" target="_blank"><img style="margin: 10px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1280px-Telegram_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Telegram" height="50" /></a>
 <img style="margin: 10px" src="https://dignitas.digital/wp-content/uploads/2022/01/SignalR.jpg" alt="SignalR" height="50" />
 </div>
 
@@ -44,7 +44,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/egor-shved-137431222/" style="text-decoration: none;" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" alt="Linkedin" style="width: 50px;" />
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="Linkedin" style="width: 50px;" />
 </a> 
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" style="width: 50px;" />
  
